@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Admin_Panel</RootNamespace>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>Admin_Panel.Form1</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
